@@ -28,3 +28,8 @@ streamlit run advanced_roguelike.py
 - **Agility**: Dodge chance
 - **Mana**: Mage class buffs and healing
 - **Rooms**: Every 10th = Boss, 50th = Superboss, 4th = Shop
+
+
+## License
+
+This project is for educational purposes as part of FIT1045 coursework.
